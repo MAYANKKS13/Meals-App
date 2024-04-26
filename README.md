@@ -2,7 +2,7 @@
 
 ### This is a Expo and React Native project made to get the ingredients and steps to make meals of required category. <br>
 
-This projet mainly checks with the navigation properties of React Native.
+
 
 _Steps to setup the React Native environment:-_
 - Open the terminal and type the command '**npm install -g expo-cli**'.
